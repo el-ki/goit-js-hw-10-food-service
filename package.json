@@ -16,7 +16,7 @@
   "keywords": [],
   "author": "Elena Kichinskaia <nitress@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/el-ki/goit-js-hw-10-food-service",
+  "homepage": "https://el-ki.github.io/goit-js-hw-10-food-service",
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/plugin-proposal-class-properties": "^7.12.13",

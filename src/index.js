@@ -90,16 +90,10 @@ inputRef.addEventListener('change', handleThemeSet);
   </article>
 </li> */
 
-
 import itemsTemplate from '../templates/gallery-items.hbs'
 console.log(itemsTemplate);
 import items from './menu.json'
-console.log(items);
-console.log(items);
-
 
 const markup = itemsTemplate(items);
-console.log(markup);
-
 galleryRef.insertAdjacentHTML('beforeend', markup)
 
